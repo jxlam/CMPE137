@@ -1,0 +1,338 @@
+2019-03-01 03:30:03 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fd84e19cc50; archive(resolved)='<IDEArchive: 0x7fd84dc317a0>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team(resolved)='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fd84e19cc50; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fd84d9b2fb0; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd84dc4eb90; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd84a3fad60; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd84c6128e0; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd84c612680; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd8461b4960; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd84aef2180; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd84b00ff10; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='<IDEProvisioningBasicTeam: 0x7fd84b010c40; teamID='6WA6Y7KBQJ', teamName='THE WINDOW SPECIALISTS'>'>
+	<IDEDistributionContext: 0x7fd84bdf6580; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fd849b79cf0>', team='(null)'>
+	<IDEDistributionContext: 0x7fd84c56bb10; archive = '<IDEArchive: 0x7fd84dc317a0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fd84e19cc50>
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionCopyItemStep
+2019-03-01 03:30:03 +0000  Running /usr/bin/ditto '-V' '/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app'
+2019-03-01 03:30:03 +0000  >>> Copying /Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app 
+2019-03-01 03:30:03 +0000  copying file ./_CodeSignature/CodeResources ... 
+2019-03-01 03:30:03 +0000  6917 bytes for ./_CodeSignature/CodeResources
+2019-03-01 03:30:03 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2019-03-01 03:30:03 +0000  974 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-03-01 03:30:03 +0000  16049 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2019-03-01 03:30:03 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2019-03-01 03:30:03 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2019-03-01 03:30:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-03-01 03:30:03 +0000  1136 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2019-03-01 03:30:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-03-01 03:30:03 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2019-03-01 03:30:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-03-01 03:30:03 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-03-01 03:30:03 +0000  copying file ./Set ... 
+2019-03-01 03:30:03 +0000  395456 bytes for ./Set
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2019-03-01 03:30:03 +0000  349408 bytes for ./Frameworks/libswiftCoreImage.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2019-03-01 03:30:03 +0000  595872 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2019-03-01 03:30:03 +0000  66704544 bytes for ./Frameworks/libswiftCore.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2019-03-01 03:30:03 +0000  1637568 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftUIKit.dylib ... 
+2019-03-01 03:30:03 +0000  1084800 bytes for ./Frameworks/libswiftUIKit.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2019-03-01 03:30:03 +0000  457904 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2019-03-01 03:30:03 +0000  2731104 bytes for ./Frameworks/libswiftDispatch.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2019-03-01 03:30:03 +0000  506160 bytes for ./Frameworks/libswiftos.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2019-03-01 03:30:03 +0000  299520 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2019-03-01 03:30:03 +0000  847744 bytes for ./Frameworks/libswiftDarwin.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2019-03-01 03:30:03 +0000  352384 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2019-03-01 03:30:03 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2019-03-01 03:30:03 +0000  30089440 bytes for ./Frameworks/libswiftFoundation.dylib
+2019-03-01 03:30:03 +0000  copying file ./embedded.mobileprovision ... 
+2019-03-01 03:30:03 +0000  13410 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2019-03-01 03:30:03 +0000  1104 bytes for ./Info.plist
+2019-03-01 03:30:03 +0000  copying file ./PkgInfo ... 
+2019-03-01 03:30:03 +0000  8 bytes for ./PkgInfo
+2019-03-01 03:30:03 +0000  2019-03-01 03:30:03 +0000  
+
+2019-03-01 03:30:03 +0000  /usr/bin/ditto exited with 0
+2019-03-01 03:30:03 +0000  2019-03-01 03:30:03 +0000  
+
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84750a660 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fd84ddc7cc0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCore.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84762ecf0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fd84c403ae0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84c5c77e0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fd84a12a130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd8455285b0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fd84dfa2f80:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84a4e3db0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fd8406283a0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd847103d90 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fd846636970:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84b058c90 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fd84550e010:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd849eb8c90 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fd849e63130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftMetal.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd8498a9a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fd845de03b0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84da09e90 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fd8498ae0e0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84a406de0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fd8463bbdf0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd84a418140 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fd84664c880:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftos.dylib'>'>
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionSymbolsStep
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionAppThinningStep
+2019-03-01 03:30:03 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionODRStep
+2019-03-01 03:30:03 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84750a660 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fd84ddc7cc0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCore.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84762ecf0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fd84c403ae0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84c5c77e0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fd84a12a130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd8455285b0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fd84dfa2f80:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84a4e3db0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fd8406283a0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd847103d90 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fd846636970:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84b058c90 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fd84550e010:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd849eb8c90 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fd849e63130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftMetal.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd8498a9a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fd845de03b0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84da09e90 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fd8498ae0e0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84a406de0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fd8463bbdf0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-03-01 03:30:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd84a418140 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fd84664c880:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftos.dylib'>'>
+2019-03-01 03:30:03 +0000  Running /usr/bin/xattr '-crs' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app'
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  2019-03-01 03:30:04 +0000  /usr/bin/xattr exited with 0
+
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  Processing step: IDEDistributionCodesignStep
+2019-03-01 03:30:04 +0000  Entitlements for <IDEDistributionItem: 0x7fd84750a660 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fd84ddc7cc0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCore.dylib'>'>: {
+}
+2019-03-01 03:30:04 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84750a660 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fd84ddc7cc0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsgi08wP
+2019-03-01 03:30:04 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsgi08wP' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCore.dylib'
+2019-03-01 03:30:04 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  2019-03-01 03:30:04 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  Entitlements for <IDEDistributionItem: 0x7fd84762ecf0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fd84c403ae0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2019-03-01 03:30:04 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84762ecf0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fd84c403ae0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsdScB1x
+2019-03-01 03:30:04 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsdScB1x' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCoreFoundation.dylib'
+2019-03-01 03:30:04 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  2019-03-01 03:30:04 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:04 +0000  2019-03-01 03:30:04 +0000  
+
+2019-03-01 03:30:04 +0000  Entitlements for <IDEDistributionItem: 0x7fd84c5c77e0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fd84a12a130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2019-03-01 03:30:04 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84c5c77e0 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fd84a12a130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsPyFRP5
+2019-03-01 03:30:04 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsPyFRP5' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCoreGraphics.dylib'
+2019-03-01 03:30:04 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  2019-03-01 03:30:04 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:04 +0000  
+2019-03-01 03:30:04 +0000  Entitlements for <IDEDistributionItem: 0x7fd8455285b0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fd84dfa2f80:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreImage.dylib'>'>: {
+}
+2019-03-01 03:30:04 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd8455285b0 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7fd84dfa2f80:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsThVaHE
+2019-03-01 03:30:04 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsThVaHE' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCoreImage.dylib'
+2019-03-01 03:30:04 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2019-03-01 03:30:04 +0000  2019-03-01 03:30:04 +0000  
+
+2019-03-01 03:30:04 +0000  /usr/bin/codesign exited with 0
+2019-03-01 03:30:04 +0000  2019-03-01 03:30:04 +0000  
+
+2019-03-01 03:30:04 +0000  Entitlements for <IDEDistributionItem: 0x7fd84a4e3db0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fd8406283a0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2019-03-01 03:30:04 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84a4e3db0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fd8406283a0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsXoa37t
+2019-03-01 03:30:04 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsXoa37t' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftDarwin.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  
+
+2019-03-01 03:30:05 +0000  Entitlements for <IDEDistributionItem: 0x7fd847103d90 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fd846636970:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2019-03-01 03:30:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd847103d90 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fd846636970:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsTuTJNN
+2019-03-01 03:30:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsTuTJNN' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftDispatch.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  Entitlements for <IDEDistributionItem: 0x7fd84b058c90 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fd84550e010:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2019-03-01 03:30:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84b058c90 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fd84550e010:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsZQoj9I
+2019-03-01 03:30:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsZQoj9I' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftFoundation.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  
+
+2019-03-01 03:30:05 +0000  Entitlements for <IDEDistributionItem: 0x7fd849eb8c90 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fd849e63130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftMetal.dylib'>'>: {
+}
+2019-03-01 03:30:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd849eb8c90 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fd849e63130:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsBCmUfm
+2019-03-01 03:30:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsBCmUfm' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftMetal.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  Entitlements for <IDEDistributionItem: 0x7fd8498a9a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fd845de03b0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2019-03-01 03:30:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd8498a9a80 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fd845de03b0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsTbOY4h
+2019-03-01 03:30:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsTbOY4h' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftObjectiveC.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  
+
+2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  Entitlements for <IDEDistributionItem: 0x7fd84da09e90 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fd8498ae0e0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
+}
+2019-03-01 03:30:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84da09e90 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fd8498ae0e0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsV9y1oC
+2019-03-01 03:30:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsV9y1oC' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftQuartzCore.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  
+
+2019-03-01 03:30:05 +0000  Entitlements for <IDEDistributionItem: 0x7fd84a406de0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fd8463bbdf0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftUIKit.dylib'>'>: {
+}
+2019-03-01 03:30:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84a406de0 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fd8463bbdf0:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementslkx03S
+2019-03-01 03:30:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementslkx03S' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftUIKit.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  
+
+2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  
+
+2019-03-01 03:30:05 +0000  Entitlements for <IDEDistributionItem: 0x7fd84a418140 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fd84664c880:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftos.dylib'>'>: {
+}
+2019-03-01 03:30:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84a418140 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7fd84664c880:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsblkMtK
+2019-03-01 03:30:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementsblkMtK' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftos.dylib'
+2019-03-01 03:30:05 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:05 +0000  2019-03-01 03:30:05 +0000  /usr/bin/codesign exited with 0
+
+2019-03-01 03:30:05 +0000  
+2019-03-01 03:30:06 +0000  Entitlements for <IDEDistributionItem: 0x7fd84dcc06b0 'edu-SJSU-CMPE137.Set' '<DVTFilePath:0x7fd846344770:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app'>'>: {
+    "application-identifier" = "6WA6Y7KBQJ.edu-SJSU-CMPE137.Set";
+    "com.apple.developer.team-identifier" = 6WA6Y7KBQJ;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "6WA6Y7KBQJ.edu-SJSU-CMPE137.Set"
+    );
+}
+2019-03-01 03:30:06 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd84dcc06b0 'edu-SJSU-CMPE137.Set' '<DVTFilePath:0x7fd846344770:'/Users/jessica/Library/Developer/Xcode/Archives/2019-02-28/Set 2-28-19, 7.29 PM.xcarchive/Products/Applications/Set.app'>'> to: /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementshYL2CR
+2019-03-01 03:30:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1FAAF939D2B4BBA6D737D41E2B742441F1C99F53' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/entitlementshYL2CR' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app'
+2019-03-01 03:30:06 +0000  /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root/Payload/Set.app: signed app bundle with Mach-O thin (arm64) [edu-SJSU-CMPE137.Set]
+2019-03-01 03:30:06 +0000  
+2019-03-01 03:30:06 +0000  2019-03-01 03:30:06 +0000  /usr/bin/codesign exited with 0
+2019-03-01 03:30:06 +0000  
+
+2019-03-01 03:30:06 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2019-03-01 03:30:06 +0000  Processing step: IDEDistributionCreateIPAStep
+2019-03-01 03:30:06 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root' '/var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Packages/Set.ipa'
+2019-03-01 03:30:06 +0000  >>> Copying /var/folders/2g/jdnl3zx17g73m4_0r599rlk00000gn/T/XcodeDistPipeline.o1g/Root 
+2019-03-01 03:30:06 +0000  copying file ./Payload/Set.app/_CodeSignature/CodeResources ... 
+2019-03-01 03:30:06 +0000  6917 bytes for ./Payload/Set.app/_CodeSignature/CodeResources
+2019-03-01 03:30:06 +0000  copying file ./Payload/Set.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2019-03-01 03:30:06 +0000  974 bytes for ./Payload/Set.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/Set.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-03-01 03:30:06 +0000  16049 bytes for ./Payload/Set.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/Set.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-03-01 03:30:06 +0000  258 bytes for ./Payload/Set.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/Set.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-03-01 03:30:06 +0000  1136 bytes for ./Payload/Set.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/Set.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+832 bytes for ./Payload/Set.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2019-03-01 03:30:06 +0000  copying file ./Payload/Set.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/Set.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Set.app/Set ... 
+2019-03-01 03:30:06 +0000  114752 bytes for ./Payload/Set.app/Set
+2019-03-01 03:30:06 +0000  copying file ./Payload/Set.app/Frameworks/libswiftCoreImage.dylib ... 
+2019-03-01 03:30:06 +0000  251040 bytes for ./Payload/Set.app/Frameworks/libswiftCoreImage.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftObjectiveC.dylib ... 
+2019-03-01 03:30:06 +0000  300064 bytes for ./Payload/Set.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftCore.dylib ... 
+2019-03-01 03:30:06 +0000  18056704 bytes for ./Payload/Set.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2019-03-01 03:30:06 +0000  650720 bytes for ./Payload/Set.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftUIKit.dylib ... 
+2019-03-01 03:30:06 +0000  460064 bytes for ./Payload/Set.app/Frameworks/libswiftUIKit.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftMetal.dylib ... 
+2019-03-01 03:30:07 +0000  260816 bytes for ./Payload/Set.app/Frameworks/libswiftMetal.dylib
+2019-03-01 03:30:07 +0000  copying file ./Payload/Set.app/Frameworks/libswiftDispatch.dylib ... 
+2019-03-01 03:30:07 +0000  971088 bytes for ./Payload/Set.app/Frameworks/libswiftDispatch.dylib
+2019-03-01 03:30:07 +0000  copying file ./Payload/Set.app/Frameworks/libswiftos.dylib ... 
+2019-03-01 03:30:07 +0000  259712 bytes for ./Payload/Set.app/Frameworks/libswiftos.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2019-03-01 03:30:07 +0000  250512 bytes for ./Payload/Set.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftDarwin.dylib ... 
+2019-03-01 03:30:07 +0000  403856 bytes for ./Payload/Set.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftQuartzCore.dylib ... 
+2019-03-01 03:30:07 +0000  254032 bytes for ./Payload/Set.app/Frameworks/libswiftQuartzCore.dylib
+copying file ./Payload/Set.app/Frameworks/libswiftFoundation.dylib ... 
+2019-03-01 03:30:07 +0000  8568416 bytes for ./Payload/Set.app/Frameworks/libswiftFoundation.dylib
+copying file ./Payload/Set.app/embedded.mobileprovision ... 
+2019-03-01 03:30:07 +0000  13410 bytes for ./Payload/Set.app/embedded.mobileprovision
+copying file ./Payload/Set.app/Info.plist ... 
+1104 bytes for ./Payload/Set.app/Info.plist
+copying file ./Payload/Set.app/PkgInfo ... 
+2019-03-01 03:30:07 +0000  8 bytes for ./Payload/Set.app/PkgInfo
+2019-03-01 03:30:07 +0000  2019-03-01 03:30:07 +0000  
+
+2019-03-01 03:30:07 +0000  2019-03-01 03:30:07 +0000  /usr/bin/ditto exited with 0
+
+2019-03-01 03:30:07 +0000  2019-03-01 03:30:07 +0000  
+
+2019-03-01 03:30:07 +0000  Processing step: IDEDistributionCreateManifestStep
